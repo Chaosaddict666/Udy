@@ -2,7 +2,12 @@
 
 Interactive portfolio page for Uddipan Doley, Marketing Leader.
 
-Open `index.html` in a browser. It is a single self-contained file: fonts load from Google Fonts, and all logos and icons are embedded.
+Two versions:
+
+- `index.html`: Marketing Leader version (with the Portcast role-fit section).
+- `b2b-tech/index.html`: B2B Technology Marketing Leader version, no role-specific section. Served at `https://chaosaddict666.github.io/udy/b2b-tech/`.
+
+Open either file in a browser. It is a single self-contained file: fonts load from Google Fonts, and all logos and icons are embedded.
 
 ## Editing
 
