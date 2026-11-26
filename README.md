@@ -1,5 +1,14 @@
 # Udy
 
+## Live pages
+
+| Version | Live link |
+|---|---|
+| **Marketing Leader** (with Portcast role fit) | **[chaosaddict666.github.io/Udy](https://chaosaddict666.github.io/Udy/)** |
+| **B2B Technology Marketing Leader** | **[chaosaddict666.github.io/Udy/b2b-tech](https://chaosaddict666.github.io/Udy/b2b-tech/)** |
+
+---
+
 Interactive portfolio page for Uddipan Doley, Marketing Leader.
 
 Two versions:
